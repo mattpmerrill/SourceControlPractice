@@ -5,6 +5,7 @@
 //  Created by Matt Merrill on 12/16/18.
 //  Copyright © 2018 Matt Merrill. All rights reserved.
 //
+//  Just connected to Github repo and this is my second commit
 
 import UIKit
 
