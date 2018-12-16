@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         //This is my first test with Git in Xcode
+        //Had to add a fix to version 1.0
         //Feature 2
     }
 
